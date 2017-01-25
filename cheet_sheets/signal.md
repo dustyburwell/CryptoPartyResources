@@ -22,4 +22,4 @@ The Signal desktop app runs as an application on top of the Google Chrome browse
 * Verify safety numbers
 * Disappearing messages
 
-_Alternatives: OTR, Email+PGP, Threema_
+_Alternatives: OTR, Email+PGP, [Threema](https://threema.ch/en)_
