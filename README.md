@@ -1,6 +1,6 @@
 # CyberSecurity and Privacy Event Resources
 
-Inspired by [CryptoParty.in](cryptoparty.in), we've hosted a few beginner cybersecurity and privacy workshops. While there are many great resources for information on such things available all over the Internet, they are rarely organized into easily consumable, workshoppable nuggets. To that end, we've created this set of resources for anyone who would like to run such an event but would rather not put together their own material.
+Inspired by [CryptoParty.in](https://cryptoparty.in), we've hosted a few beginner cybersecurity and privacy workshops. While there are many great resources for information on such things available all over the Internet, they are rarely organized into easily consumable, workshoppable nuggets. To that end, we've created this set of resources for anyone who would like to run such an event but would rather not put together their own material.
 
 > *General Disclaimer: 100% security is not possible. Everything we do here is in an effort to move the goal post, to make it harder and less profitable for someone to get your private information.*
 
