@@ -23,4 +23,4 @@ There are many VPN services out there. ProXPN is included here since they have a
 #### Things to Try
 * Create a free ProXPN account and set up the client on your laptop
 
-Alternatives: [TOR](https://www.torproject.org/)
+_Alternatives: [TOR](https://www.torproject.org/)_
