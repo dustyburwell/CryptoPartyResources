@@ -24,9 +24,9 @@ Systems which are not owned or controlled by a single entity are prefered over t
 
 Systems which strike a good balance between convenience and security. Convenience is forever at odds with security. When making systems more secure, it almost always comes at the cost of convenience. We make these trade offs because it’s the right thing to do. However, many modern solutions try to build in novel user experience to make up for the loss of convenience. We present solutions here that we feel present a fair balance between these poles. We’re happy to share more secure alternatives, if you’re looking to explore the deep end.
 
-## Thread Modeling
+## Threat Modeling
 
-Thread modeling is a procedure for optimizing security by identifying objectives and specific vulnerabilities. Security experts at companies and organizations create threat models to help them better protect specific assets. The existence of the concept is an admission that not everyone has the same security and privacy needs.
+Threat modeling is a procedure for optimizing security by identifying objectives and specific vulnerabilities. Security experts at companies and organizations create threat models to help them better protect specific assets. The existence of the concept is an admission that not everyone has the same security and privacy needs.
 
 To that end, many of the tools presented in this guide may be unecessary for your particular situation. On the flip-side, what's presented here may not go nearly far enough, in which case you should seek specific security expertise to help you. Whatever the case, it's important for you to go through the excersise of identifing what assets you need to protect and from who. Bellow are some likely assets and attackers to consider when modeling your personal threat level.
 
