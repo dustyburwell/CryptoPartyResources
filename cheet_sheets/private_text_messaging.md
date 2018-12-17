@@ -1,4 +1,4 @@
-# Private Text Messaging - Signal
+# Private Text Messaging
 Signal is a free encrypted text messaging and group chat platform. For Android users, it can act as your SMS client, sending encrypted messages to contacts who also use signal and standard SMS messages to everyone else. Signal also has a desktop application that works on all major browsers. The Signal protocol is well reviewed by security experts and the clients are open source.
 
 ## Features
