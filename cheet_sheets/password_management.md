@@ -20,6 +20,7 @@ Install the LastPass extension for Chrome, Firefox, Safari, or Edge. There is al
 
 #### Things to Try
 * Create a free LastPass account
+* Use a long, but memorable, passphrase for your "last password" 
 * Configure some sites and passwords and securely log in
 * Update less secure passwords with LastPass generated passwords
 
