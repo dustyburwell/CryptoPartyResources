@@ -1,4 +1,4 @@
-# Password Management - LastPass
+# Password Management
 Security experts recommend using long, highly random, unique, and ultimately non-memorable passwords. This policy is great for security, but impossible for humans. Most folks end up using the same password everywhere, different but easily crackable passwords, or writing all of their passwords down.
 
 LastPass will generate, store, and automatically fill in passwords in most browsers and platforms. LastPass is not open source, but they are very open about how the service works and it is recommended by security professionals. LastPass encrypts all data locally on your computer before sending it to their servers. No one at LastPass can access your passwords.
