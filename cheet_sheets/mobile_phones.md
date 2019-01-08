@@ -6,7 +6,9 @@ world on mobile.
 
 Arguably, one's smartphone is the most personal computing device they own. It augments our own
 brains with access to additional knowledge and stores memories in higher fidelity than we can
-on our own. Until
+on our own. Unlike what's in your brain, though, data stored on a smartphone is not protected by
+the 5th Amendment. It's smart for privacy minded individuals to put some effort into securing
+their devices, especially smart phones.
 
 ## Recommendations
 
@@ -25,7 +27,8 @@ on our own. Until
 
 * Enable encryption on your device if it's not on by default : [Android][0]
 * Set up a strong alphanumeric password
-* Practice guestures for disabling biometric access
+* Practice guestures for disabling biometric access : [Instructions][1]
 * Check out options for disabling access after failed attempts
 
 [0]: https://it.ucsf.edu/how_do/enable-encryption-android-devices
+[1]: https://coolblindtech.com/how-to-disable-fingerprint-and-facial-recognition-on-your-phone/
