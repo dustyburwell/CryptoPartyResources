@@ -28,4 +28,4 @@ on our own. Until
 * Practice guestures for disabling biometric access
 * Check out options for disabling access after failed attempts
 
-[0] https://it.ucsf.edu/how_do/enable-encryption-android-devices
+[0]: https://it.ucsf.edu/how_do/enable-encryption-android-devices
