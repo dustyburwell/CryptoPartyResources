@@ -1,5 +1,5 @@
 # Private Text Messaging
-The cellular phone network may not be as safe to use as you think. Phone calls and messages sent via SMS are generally not encrypted and there have been many cases where SS7 (the underlying phone network protocol) has been hacked to listen to calls and intercept SMS [messages][0]. Carriers have shown little sense of urgency in fixing these issues. Beyond that, carriers themselves can easily act as persons in the middle of your conversation where a malicious insider or government collection can have a hay day.
+The cellular phone network may not be as safe to use as you think. Phone calls and messages sent via SMS are generally not encrypted and there have been many cases where SS7 (the underlying phone network protocol) has been hacked to listen to calls and intercept SMS [messages][0]. Carriers have shown little sense of urgency in fixing these issues. Beyond that, carriers themselves can easily act as persons in the middle of your conversation where a malicious insider or government collection can have a hay day. Further, the FCC recently passed a [ruling][1] to allow carriers the unmitigated ability to block and censor text messages sent via SMS. 
 
 ## Recommendation
 Signal is a free encrypted text messaging and group chat platform. For Android users, it can act as your SMS client, sending encrypted messages to contacts who also use signal and standard SMS messages to everyone else. Signal also has a desktop application that works on all major browsers. The Signal protocol is well reviewed by security experts and the clients are open source.
@@ -28,3 +28,4 @@ The Signal desktop app runs as an application on top of the Google Chrome browse
 _Alternatives: OTR, Email+PGP, KeyBase(https://keybase.io/), [Threema](https://threema.ch/en)_
 
 [0]: https://www.kaspersky.com/blog/hacking-cellular-networks/10633/
+[1]: https://gizmodo.com/stop-sending-regular-text-messages-1831258324
