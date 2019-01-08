@@ -1,12 +1,13 @@
 # Password Management
 Security experts recommend using long, highly random, unique, and ultimately non-memorable passwords. This policy is great for security, but impossible for humans. Most folks end up using the same password everywhere, different but easily crackable passwords, or writing all of their passwords down. Some folks suggest using 3 or 4 short word phrases as a password, but even here the math doesn't check out.
 
-LastPass will generate, store, and automatically fill in passwords in most browsers and platforms. LastPass is not open source, but they are very open about how the service works and it is recommended by security professionals. LastPass encrypts all data locally on your computer before sending it to their servers. No one at LastPass can access your passwords.
+## Recommendation
+LastPass will generate, store, and automatically fill in strong passwords in most browsers and platforms. LastPass is not open source, but they are very open about how the service works and it is recommended by security professionals. LastPass encrypts all data locally on your computer before sending it to their servers. No one at LastPass can access your passwords.
 
-## Features
+### Features
 Generate strong passwords, automatically fill passwords into login forms, free. LastPass premium service allows for sharing login information with family and friends.
 
-## Installation
+### Installation
 
 #### Mobile
 Download the LastPass app from the appropriate app store.
@@ -18,10 +19,11 @@ Install the LastPass extension for Chrome, Firefox, Safari, or Edge. There is al
 
 -----
 
-#### Things to Try
+## Things to Try
 * Create a free LastPass account
 * Use a long, but memorable, passphrase for your "last password" 
 * Configure some sites and passwords and securely log in
+* Update "security questions" using "pronouncable" passwords
 * Update less secure passwords with LastPass generated passwords
 
 _Alternatives: [KeePass](http://keepass.info/), [1Password](https://1password.com/)_
